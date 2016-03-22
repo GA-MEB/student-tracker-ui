@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-template',
+    modulePrefix: 'student-tracker-ui',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

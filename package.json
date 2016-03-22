@@ -1,7 +1,7 @@
 {
-  "name": "ember-template",
-  "version": "0.0.0",
-  "description": "Small description for ember-template goes here",
+  "name": "student-tracker-ui",
+  "version": "0.0.1",
+  "description": "UI for GA Student Tracker",
   "private": true,
   "directories": {
     "doc": "doc",
